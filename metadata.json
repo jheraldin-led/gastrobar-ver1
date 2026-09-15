@@ -1,0 +1,6 @@
+{
+  "name": "GASTROBAR | San Gil, Santander",
+  "description": "Gastrobar de alta gama en San Gil, Santander con coctelería de autor, destilados ancestrales colombianos y gastronomía nacional frente al Río Fonce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
